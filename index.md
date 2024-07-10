@@ -11,8 +11,7 @@ seo:
 <!-- # {{ site.tagline }} -->
 <!-- {: .mb-2 } -->
 # {{ site.description }}
-{: .fs-6 .fw-300 }
-## {{ site.title }} * {{ site.semester }} * {{ site.university }}
+#### {{ site.title }} &middot; {{ site.semester }} &middot; {{ site.university }}
 
 {% if site.announcements %}
 {{ site.announcements.last }}
