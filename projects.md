@@ -1,7 +1,10 @@
 ---
+title: Project
 layout: page
-title: Instructor
-description: A listing of all the course staff members.
+description: class project details
+permalink: /projects/
+has_children: false
+nav_order: 5
 ---
 
 ## Instructor

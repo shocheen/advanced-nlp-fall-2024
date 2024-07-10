@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Schedule
-description: Listing of course modules and topics.
+title: Calendar
+layout: page
+description: Calendar
+permalink: /calendar/
+has_children: false
+nav_order: 3
 ---
 
 # Calendar
