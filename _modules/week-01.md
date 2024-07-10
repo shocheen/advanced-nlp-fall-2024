@@ -2,5 +2,4 @@
 title: Advanced Topics in Natural Language Processing
 ---
 
-August 26
-: [TBD](#)
+August 26: [TBD](#)

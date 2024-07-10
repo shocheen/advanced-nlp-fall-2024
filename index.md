@@ -8,8 +8,8 @@ seo:
   name: Advanced Topics in Natural Language Processing
 ---
 
-# {{ site.tagline }}
-{: .mb-2 }
+<!-- # {{ site.tagline }} -->
+<!-- {: .mb-2 } -->
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
