@@ -35,8 +35,12 @@ Students should also feel comfortable with implementing machine learning algorit
 Students should also have experience with reading machine learning papers and developing a decent understanding of the main concepts/ideas presented in the paper.
 
 
+---
 
-## Instructors
+Lectures: TBD
+Lecture Location: TBD
+
+---
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -46,23 +50,9 @@ Students should also have experience with reading machine learning papers and de
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+### Teaching Assistants
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-
-## Structure of the course
-
-We will meet once weekly. Evaluation in the course will be approximately as follows (subject to change):
- - Class Participation: 50%
- - Final project: 50% 
-
-## Resources
-
-Coming soon
-
-## Projects
-
-Coming soon
