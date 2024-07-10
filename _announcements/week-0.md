@@ -1,8 +1,7 @@
 ---
-title: Week 0 Announcement
+title: Course website is live!
 week: 0
-date: 2019-04-01
+date: 2024-07-10
 ---
 
-Hello world!
-{: .fs-5 }
+First class on TBD
