@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Instructor
-description: A listing of all the course staff members.
+permalink: /instructor/
+has_children: false
+nav_order: 2
 ---
 
 ## Instructor
