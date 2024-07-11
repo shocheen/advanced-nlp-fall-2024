@@ -10,7 +10,7 @@ seo:
 
 <!-- # {{ site.tagline }} -->
 <!-- {: .mb-2 } -->
-![OSU](/assets/images/osu.png) # {{ site.description }}
+# {{ site.description }}
 #### {{ site.title }} &middot; {{ site.semester }} &middot; {{ site.university }}
 
 {% if site.announcements %}
@@ -39,6 +39,7 @@ Note: Students who haven’t taken any of these courses but feel comfortable wit
 ---
 
 Lectures: TBD
+
 Lecture Location: TBD
 
 ---
