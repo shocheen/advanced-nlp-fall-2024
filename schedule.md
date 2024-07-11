@@ -2,14 +2,14 @@
 layout: page
 title: Schedule
 layout: page
-description: The weekly event schedule.
+description: schedule
 permalink: /schedule/
 has_children: false
 nav_order: 4
 ---
 
-# Weekly Schedule
+# Schedule
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
