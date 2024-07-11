@@ -10,7 +10,7 @@ seo:
 
 <!-- # {{ site.tagline }} -->
 <!-- {: .mb-2 } -->
-# {{ site.description }}
+![OSU](/assets/images/osu.png) # {{ site.description }}
 #### {{ site.title }} &middot; {{ site.semester }} &middot; {{ site.university }}
 
 {% if site.announcements %}
@@ -34,6 +34,7 @@ Students should also feel comfortable with implementing machine learning algorit
 
 Students should also have experience with reading machine learning papers and developing a decent understanding of the main concepts/ideas presented in the paper.
 
+Note: Students who haven’t taken any of these courses but feel comfortable with deep learning and modern NLP, and students from other relevant departments such as statistics, linguistics, neuroscience and biomedical science are welcome to participate but please contact the instructor for approval.
 
 ---
 
