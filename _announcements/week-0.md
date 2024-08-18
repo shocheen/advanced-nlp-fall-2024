@@ -1,7 +1,7 @@
 ---
 title: Course website is live!
 week: 0
-date: 2024-07-10
+date: 2024-08-18
 ---
 
-First class on TBD
+First class on August 26 at 1pm!

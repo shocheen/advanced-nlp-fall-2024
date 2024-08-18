@@ -38,9 +38,9 @@ Note: Students who haven’t taken any of these courses but feel comfortable wit
 
 ---
 
-Lectures: TBD
+Lectures: Mondays at 1pm
 
-Lecture Location: TBD
+Lecture Location: DL 317
 
 ---
 

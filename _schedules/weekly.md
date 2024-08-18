@@ -24,7 +24,7 @@ schedule:
       - name: Lecture
         start: 1:00 PM
         end: 2:45 PM
-        location: TBD
+        location: DL 317
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
