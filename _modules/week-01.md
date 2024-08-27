@@ -7,6 +7,6 @@ Course Overview & Language Modeling Basics
 
 ### Slides: 
 
-[Course Oveview]({{ site.url }}/assets/slides/lecture1.pdf)
+[Course Oveview]({{ site.url }}/{{ site.baseurl }}/assets/slides/lecture1.pdf)
 
 
