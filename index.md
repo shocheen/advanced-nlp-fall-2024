@@ -58,3 +58,9 @@ Lecture Location: DL 317
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+## Code of Conduct
+
+The strength of the university depends on academic and personal integrity. In this course, you must be honest and truthful, abiding by the University Academic Integrity Policy: https://oaa.osu.edu/academic-integrity-and-misconduct
+
+

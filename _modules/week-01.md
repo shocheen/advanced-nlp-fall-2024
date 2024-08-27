@@ -1,5 +1,12 @@
 ---
-title: Advanced Topics in Natural Language Processing
+title: Introduction - Course Overview (August 26)
 ---
 
-August 26: [Slides](#)
+### Content
+Course Overview & Language Modeling Basics
+
+### Slides: 
+
+[Course Oveview]({{ site.url }}/assets/slides/lecture1.pdf)
+
+
