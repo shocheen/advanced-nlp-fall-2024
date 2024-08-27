@@ -36,11 +36,17 @@ We will be reading research papers from premier conferences in the field E.g., A
 
 ## Communication
 
-TBD
+For Submitting assignments: Canvas (https://osu.instructure.com/courses/171551).
+
+For announcements: [Teams](https://teams.microsoft.com/l/team/19%3Agv2tVuH9zDjPRVvZGiRG_za_akGSSqv6c7AVbqDAAcI1%40thread.tacv2/conversations?groupId=a7aaf6bb-cf61-40f4-993f-b84ca08a9f2b&tenantId=eb095636-1052-4895-952b-1ff9df1d1121)
+
+Please email me if you have not been added to either of these platforms. 
 
 ## Grading
 
 This is a seminar level course and instead of exams, grades will be based on leading/participating in class discussions and a final project.
+
+### Foundations Homework (5%)
 
 ### Paper presentation and discussions (40%)
 
@@ -53,7 +59,7 @@ This is a seminar level course and instead of exams, grades will be based on lea
 * 10% Turn in questions and occasional quiz sheets.
     * Quizes will be based on small group discussions and will be distributed occasionally in some (not all) of the sessions and must be turned in by next day after the class.
 
-### Class project (60%) 
+### Class project (55%) 
 
 Students must complete a final research project on a topic of their choice related to the class. The students can team up with other students but the team size is limited to 2 students. (In rare cases and depending on the scope of the proposed project, a group of size 3 may be also allowed.) 
 
