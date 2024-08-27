@@ -1,5 +1,5 @@
 ---
-title: Introduction - Course Overview (August 26)
+title: Transfer Learning in NLP
 ---
 
 ### Content
