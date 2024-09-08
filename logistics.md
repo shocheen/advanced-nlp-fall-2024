@@ -42,6 +42,31 @@ For announcements: [Teams](https://teams.microsoft.com/l/team/19%3Agv2tVuH9zDjPR
 
 Please email me if you have not been added to either of these platforms. 
 
+## Content
+For much of the semester, each class will involve the presentation and discussion of recent important papers. The objective of the course is to instill a holistic view of the latest developments in Language Modeling and broadly NLP, and help the participants understand their broad implications.
+
+### Presenters
+Each paper will be presented by a group of students each with an assigned "role". This role defines the lens through which they read the paper and determines what they prepare for the group in-class discussion. Here are the roles we will experiment with:
+
+Stakeholder ✍️: Act as if you're the authors of this paper. Describes their motivation, problem definition, method and experimental findings of this paper. (time budget: 15 minutes)
+
+Scientific Reviewer 🔎: Act like you're a reviewer of this work. Be critical of the work, though not necessarily negative. You can follow the guidelines for NeurIPS reviewers (under "Review Content"), taking note of the example reviews included therein. (time budget: 10 minutes)
+
+Archaeologist 🏺: Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper. (time budget: 10 minutes)
+
+Visionary 🔭: Propose an imaginary follow-up research project or a new application -- not just based on the current but only possible due to the existence and success of the current paper. (time budget: 10 minutes)
+
+The presentation of each role will be done individually or in a group of two depending on the complexity of the paper. In case of a group presentation the presenters may decide how to divide the work among themselves but it should be roughly equal. 
+
+Who presents what role and when? In a given class session, two papers centered around a theme will be discussed. The students will each be given a random role (determined at least 10 days before the presentation). Each role (irrespective of how many students are assigned to it) should aim for specified time budgets for each role. You're encouraged to have slides for your role, though it is not mandatory. If you do so, I would recommend less than 7-10 slides to make sure stay within our time budget.
+
+What slides? To minimize time spent context switching or fighting with screen sharing/projector dongles, we will have a shared pool of slides. Each role group are encouraged to title their slides with "[role emoji]: [student name]" (as in "🏺: Jane, John") so that the slides are quickly identified during the session. If you choose to make slides, you're not expected to prepare a full-blown presentation -- they're encouraged for visual aid and facilitating the presentation.
+
+### Non-Presenters
+If you aren't in the presenting group during a given class period: Come up with one question / discussion point about the paper (either something you're confused about or something you'd like to hear discussed more). Submit this question to Canvas (a submission link will be provided before the class)
+
+During the class: While only a subset of the class will participate in presenting a paper, the rest of the class is expected to come to class ready to participate in the discussions.
+
 ## Grading
 
 This is a seminar level course and instead of exams, grades will be based on leading/participating in class discussions and a final project.
