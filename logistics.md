@@ -86,9 +86,9 @@ This is a seminar level course and instead of exams, grades will be based on lea
 
 ### Class project (55%) 
 
-Students must complete a final research project on a topic of their choice related to the class. The students can team up with other students but the team size is limited to 2 students. (In rare cases and depending on the scope of the proposed project, a group of size 3 may be also allowed.) 
+Students must complete a final research project on a topic of their choice related to the class. The students can team up with other students but the team size is limited to 2 students. (In rare cases and depending on the scope of the proposed project, a group of size 3 may be also allowed). See here for [how to choose a project](https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_projects.pdf).
 
-* 10%: proposal
+* 10%: proposal (due September 30)
     * Students should submit a 1-2 page proposal for their project by week 4-5. The proposal should: state and motivate the problem, and position the proposed project within related work. The project should propose either a novel research, a novel investigation of existing methods, an extension of prior work for a specific purpose, or a new application. It should also include a brief description of the approach as well as the experimental plan (e.g., baselines, datasets, etc) to validate the effectiveness of the approach.
 
 * 10%: project progress report
@@ -102,3 +102,35 @@ Students must complete a final research project on a topic of their choice relat
 
 * 20%: final project report
     * 6-8 page conference format report (e.g., ACL/EMNLP Links to an external site.) detailing the project motivation, related work, proposed approach, results, and discussion. You can think of this as a conference paper. Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed methods didn’t work and provide some additional insights into the problem. 
+
+
+<!-- ### Relevant resources:
+
+Here are compute resources available for free
+
+#### Compute Resources
+
+- Each student will get access to OSC Compute
+- Google Colab provides free GPU usage for up to 12 hours/day for academic purposes. One can obtain more compute on Colab with relatively minimal pay.
+- Google offers research TPU credits.
+- Kaggle offers GPUs for its users.
+- AWS and Azure both offer welcome credits to students (which includes access to several LLM APIs)
+
+#### Demos:
+- GPT-J demo
+- OPT demo
+- BLOOM demo
+- A queryable interface to Dolma, pile
+- AllenAI OLMo demo
+- AllenNLP demo
+- Social stereotypes in models
+- Meta's BlenderBot demo
+- Examples from AudioLM
+- A repository of language tasks and their instructions
+
+#### Tutorials:
+- These tutorials do a good job of introducing PyTorch.
+- A course on Huggingface's Transformers library.
+- Dive into Deep Learning: Interactive deep learning book with code, math, and discussions.
+
+Besides these resources, I will try my best to satisfy individual needs through discussion in class / office hours. -->
