@@ -1,9 +1,6 @@
 ---
-title: Introduction - Course Overview (August 26)
+title: Course Overview & Language Modeling Basics (August 26)
 ---
-
-### Content
-Course Overview & Language Modeling Basics
 
 ### Slides: 
 
