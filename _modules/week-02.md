@@ -20,5 +20,11 @@ Optional readings:
 
 - The Illustrated GPT2 [[link]()]
 
+- What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? [[link](https://arxiv.org/pdf/2204.05832)]
+
+- BART [[link](https://arxiv.org/abs/1910.13461)]
+
 - RoBERTa, A Robustly Optimized BERT Pretraining Approach  [[link](https://arxiv.org/abs/1907.11692)]
+
+
 
