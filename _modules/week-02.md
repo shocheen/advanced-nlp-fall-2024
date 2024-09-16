@@ -1,5 +1,5 @@
 ---
-title: Pretraining: Architectures and Methods (September 9)
+title: Pretraining - Architectures and Methods (September 9)
 ---
 
 ### Slides: 

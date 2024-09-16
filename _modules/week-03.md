@@ -1,5 +1,5 @@
 ---
-title: Efficiency: Training (LoRA) and Inference(Quantization) (September 16)
+title: Efficiency - Training (LoRA) and Inference(Quantization) (September 16)
 ---
 
 ### Slides: 
