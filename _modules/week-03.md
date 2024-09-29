@@ -13,8 +13,7 @@ title: Efficiency - Training (LoRA) and Inference(Quantization) (September 16)
 
 Optional readings:
 
-- QLoRA: Efficient Finetuning of Quantized LLMs
- [[link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html)]
+- QLoRA: Efficient Finetuning of Quantized LLMs [[link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html)]
 
 - LoRA+: Efficient Low Rank Adaptation of Large Models [[link](https://arxiv.org/abs/2402.12354)]
 
