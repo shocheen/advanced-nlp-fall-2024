@@ -23,8 +23,8 @@ baseurl: '/advanced-nlp-fall-2024' # the subpath of your site, e.g. /blog
 url: 'https://shocheen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/osu.png"
-plugins:
-  - jekyll-toc
+kramdown:
+  toc_levels: 1..2
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.8.2

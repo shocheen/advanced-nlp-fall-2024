@@ -18,6 +18,10 @@ nav_order: 3
 {:toc}
 
 --- 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+{% capture content %}
+  {% for module in site.modules %}
+    {{ module.content | markdownify }}
+  {% endfor %}
+{% endcapture %}
+
+{{ content | markdownify }}
