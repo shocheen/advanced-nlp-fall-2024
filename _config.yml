@@ -22,7 +22,7 @@ author: Sachin Kumar
 baseurl: '/advanced-nlp-fall-2024' # the subpath of your site, e.g. /blog
 url: 'https://shocheen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-logo: "/assets/images/osu.png"
+logo: "/assets/images/osu-2.png"
 kramdown:
   toc_levels: 1..2
 
