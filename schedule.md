@@ -9,6 +9,7 @@ nav_order: 3
 ---
 
 # Schedule
+{:.no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,6 +17,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
+--- 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
