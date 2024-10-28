@@ -17,6 +17,6 @@ Optional readings:
 
 - The Llama 3 Herd of Models (Sec 4 and the relevant portion of Sec 5) [[link](https://arxiv.org/abs/2407.21783)]
 
-- Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing [[link](https://arxiv.org/abs/2406.08464v1)]
-
 - Fundamental Limitations of Alignment in Large Language Models [[link](https://arxiv.org/abs/2304.11082)]
+
+- Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback [[link](https://arxiv.org/abs/2307.15217)]
